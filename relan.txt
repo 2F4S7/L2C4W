@@ -1,62 +1,22 @@
- Inicio
- Buffs
- Noblesse
- Clases
- Info. Miscelánea
- Glosario
- Descargas y Mapas
- Sobre la Web
+Dances
 
-Hi! Welcome to this Mini Wiki of Lineage 2 C4
-Made with the intention of helping those of us who know less and cover the lack of information in this chronicle so appreciated by its fans.
+Buffs passed through Party. They mostly improve offensively. They come from class of Blade Dancer.
 
-Contents list
+Chants
 
-Buffs(all except EJ's own buffs: Ultimate Defense + from Summons and Cubics)
-Noblesse (beneficios + guía completa)
-Clases (listado, descripciones, combos)
-Informacion Miscelánea (atributos+dyes, quests importantes, tips)
-Glosario de items, acrónimos y clases
-Mapas del juego online o descargables
-Info sobre esta web
+Buffs passed through Party. They are quite oriented to the Fighters. They come from the Warcryer class.
+
+Pa'agrio
+
+Buffs passed through Alliance. They are mixed. They come from the Overlord class. They can Heal CP in bulk.
+
+<p class="h3 text-center">[Pa'agrio]</p>
+<p class="text-center">
+Buffs passed through Alliance. They are mixed. They can Heal CP in bulk. They
+come from class of
+<span class="lead"> ~Overlord~ </span>
+</p>
 
 
-Beginning
-
- Buffs
-
- Noblesse
-
- Lessons
-
- Miscellaneous Info
-
- Glossary
-
- Downloads and Maps
-
- About the Web
-
-Hi! Welcome to this Mini Wiki of Lineage 2 C4
-Made with the intention of helping those of us who know less and cover the lack of information in this chronicle so appreciated by its fans.
-
-Contents list
-
-Buffs (all except EJ's own buffs: Ultimate Defense + from Summons and Cubics)
-
-Noblesse (benefits + complete guide)
-
-Classes (list, descriptions, combos)
-
-Miscellaneous Information (attributes + dyes, important quests, tips)
-
-Glossary
-
- of items, acronyms and classes
-
-Maps
-
- of the game online or downloadable
-
-
-Info about this website
+Buffs passed through Alliance. They are mixed. They can Heal CP in bulk. They
+come from class of

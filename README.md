@@ -1,36 +1,36 @@
-# Mini Wiki sobre el Lineage 2 C4
+# Mini Wiki about the Lineage 2 C4
 
-Hola! Esta es una ideita que estuve teniendo para aplicar lo que aprendí en clase de Bootstrap, y depaso aportar algo de info sobre la Crónica 4 Scions of Destiny del Juego del Lineage 2, ya que hoy en día la información es super escaza, y si hay, es poco y/o está mezclada con Interlude o otras crónicas.
+Hi! This is a little idea that I was having to apply what I learned in Bootstrap class, and I will provide some information about the Chronicle 4 Scions of Destiny of the Lineage 2 Game, since nowadays the information is super scarce, and if there is , it is little and / or it is mixed with Interlude or other chronicles.
 
-Contenidos:
+Contents
 
-* Inicio
+* Beginning
 
 * Buffs
 
 * Noblesse
 
-* * Qué es y como obtenerla
+* What is it and how to obtain it
 
-* Clases/Sub
+* Classes / Sub
 
-* * Cuales existen, importancia de tales, combos
+* What exist, importance of such, combos
 
-* Info. Miscelánea
+* Miscellaneous Info
 
-* * Atributos&Dyes, Quest importantes, tips
+* Attributes & Dyes, Important quests, tips
 
-* Glosario
+* Glossary
 
-* Mapa (Grande)
+* Map (Large)
 
-* Sobre la Web
+* About the Web
 
 
 ___________________________
 
-Objetivos de info para tener principales (escrito el 31/5/19)
-- Buffs disponibles, que tipo de bonus dan (no necesariamente los numeros exactos)
-- Glosario de acrónimos más usados
-- Guía Noblesse
-- Tips (Ej tener las 2 quest de catacombs/necropolis activados)
+Site information update 10/20/2021
+- Buffs are available, what bonuses they give (not necessarily the exact amount)
+- Glossary of most used acronyms
+- Noblesse Guide
+- Tips (Eg having the 2 quests of catacombs / necropolis activated)
